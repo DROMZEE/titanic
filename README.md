@@ -1,2 +1,4 @@
-# iris
+# titanic
+
+
 projet d'étude en machine learning du dataset titanic
